@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://andyslightlife.com/sitemap.xml
